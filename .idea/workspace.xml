@@ -38,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603368709251</updated>
-      <workItem from="1603368710267" duration="281000" />
+      <workItem from="1603368710267" duration="640000" />
     </task>
     <servers />
   </component>
@@ -46,6 +46,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="250" y="23" width="939" height="813" key="CommitChangelistDialog2" timestamp="1603369105859">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="250" y="23" width="939" height="813" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1603369105859" />
     <state x="408" y="139" key="RollbackChangesDialog" timestamp="1603368732261">
       <screen x="0" y="23" width="1440" height="813" />
     </state>

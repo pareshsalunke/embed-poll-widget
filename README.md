@@ -18,6 +18,7 @@ node -v
 First, install the dependencies:
 
 ```bash
+cd poll-app/
 yarn install
 ```
 
