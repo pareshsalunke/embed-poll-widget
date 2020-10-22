@@ -52,12 +52,17 @@ Make sure 3000 port is available and your page is accessible.
 - Start the server in one of the two ways
 - Run `<rootDir>/demo_iframe.html`
 
- 
-
 ### Test
 ```bash
 yarn test
 ```
+
+### Data Injection to Poll App
+```bash
+cd <root-dir>/poll-app/src/data/
+```
+- Open `index.ts` and add questions data as per type mentioned in type file
+- Where is type file? `<root-dir>/poll-app/src/types/`
 
 ## Built With
 
