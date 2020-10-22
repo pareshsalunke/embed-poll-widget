@@ -71,9 +71,3 @@ export const initData: PollStore[] = [
     }
   },
 ];
-
-
-export const saveResult = (id: number, results: PollStore) => {
-  const pollResults = JSON.stringify(results);
-  localStorage.setItem('store',pollResults);
-};
