@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Poll Header component error component mounts 1`] = `
+<PollHeader>
+  Header
+</PollHeader>
+`;
