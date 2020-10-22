@@ -63,6 +63,12 @@ cd <root-dir>/poll-app/src/data/
 ```
 - Open `index.ts` and add questions data as per type mentioned in type file
 - Where is type file? `<root-dir>/poll-app/src/types/`
+- After data injection, build the project with `yarn build`
+
+and then run again with
+```bash
+serve -s build
+```
 
 ## Built With
 
